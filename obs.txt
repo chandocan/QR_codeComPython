@@ -1,0 +1,10 @@
+foi criando com python versão 3.8.3
+
+requerimentos:
+
+imutils==0.5.4
+numpy==1.21.4
+opencv-python==4.5.4.58
+pygame==2.1.0
+pyzbar==0.1.8
+
